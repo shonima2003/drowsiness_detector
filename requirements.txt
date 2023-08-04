@@ -1,0 +1,8 @@
+Flask==2.0.2
+gunicorn==20.1.0
+keras==2.7.0
+numpy==1.21.5
+tensorflow-cpu==2.7.0
+opencv-python-headless
+pygame==2.1.2
+pyalsaaudio==0.9.0
